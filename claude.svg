@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-110 -110 220 220" width="240" height="240">
+  <defs>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#D97757" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#D97757" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle r="105" fill="url(#glow)">
+    <animate attributeName="opacity" values=".4;1;.4" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+    <g transform="rotate(0)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-0.000s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(30)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-0.133s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(60)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-0.267s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(90)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-0.400s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(120)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-0.533s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(150)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-0.667s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(180)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-0.800s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(210)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-0.933s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(240)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-1.067s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(270)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-1.200s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(300)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-1.333s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <g transform="rotate(330)"><path d="M-7 -8 Q0 -4 7 -8 L2 -88 Q0 -94 -2 -88 Z" fill="#D97757"><animateTransform attributeName="transform" type="scale" values="1 .55;1 1;1 .55" dur="1.6s" begin="-1.467s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/></path></g>
+    <circle r="12" fill="#D97757"/>
+  </g>
+  <text y="108" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#D97757">Clauding
+    <animate attributeName="opacity" values="1;.35;1" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+</svg>
