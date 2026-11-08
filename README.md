@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./claude.svg" width="240" alt="Claude" />
-
 # connectbyipv4 (ipv4)
 
 
